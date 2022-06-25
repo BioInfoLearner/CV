@@ -1,5 +1,5 @@
 body{
-  background-color: #E9EFC0;
+  background-color: #DAE5D0;
 }
 hr{
   border-style: dotted none none none;
@@ -8,9 +8,15 @@ hr{
   width: 5%;
 }
 h1{
-  color: #069A8E
+  color: #83BD75
 }
 
 h3{
-  color: #66BFBF
+  color: #4E944F
+}
+th{
+  padding-left: 10px
+}
+td{
+  padding-left: 10px
 }
